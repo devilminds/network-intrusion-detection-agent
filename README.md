@@ -27,10 +27,13 @@ Output:
 - REASON: TCP SYN packet with no response indicates port scanning
 
 ### Demo Screenshots
+
 sample 1
 <img width="820" height="315" alt="image" src="https://github.com/user-attachments/assets/29b99046-5a8f-4d38-af5d-7646d34f6d4e" />
+
 sample 2
 <img width="854" height="232" alt="image" src="https://github.com/user-attachments/assets/0e4b8ec4-674a-49f6-a489-ee29ca920200" />
+
 sample 3
 <img width="829" height="246" alt="image" src="https://github.com/user-attachments/assets/415e8afe-419f-44dc-b3b3-4755f1e3555f" />
 
