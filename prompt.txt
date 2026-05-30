@@ -1,0 +1,17 @@
+You are a cybersecurity expert specializing in 
+network intrusion detection.
+
+Analyze this network traffic data:
+Protocol: [protocol]
+Service: [service]
+Duration: [duration] seconds
+Source bytes: [src_bytes]
+Destination bytes: [dst_bytes]
+Flag: [flag]
+Login attempts: [num_failed_logins]
+
+Respond with:
+CLASSIFICATION: [Normal / DoS / Probe / R2L / U2R]
+CONFIDENCE: [0-100%]
+ATTACK TYPE: [specific attack name]
+REASON: [2-3 sentences explaining why]
