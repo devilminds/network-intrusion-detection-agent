@@ -38,6 +38,4 @@ sample 3
 <img width="829" height="246" alt="image" src="https://github.com/user-attachments/assets/415e8afe-419f-44dc-b3b3-4755f1e3555f" />
 
 
-### Project by
-Name: Mohamed Zubeir
-Program: AICTE IBM SkillsBuild Internship 2026
+
